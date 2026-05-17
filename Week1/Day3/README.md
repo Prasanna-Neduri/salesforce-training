@@ -95,7 +95,6 @@ Department
             └── Student
 ```
 
-(Add your screenshot here)
 
 ---
 
