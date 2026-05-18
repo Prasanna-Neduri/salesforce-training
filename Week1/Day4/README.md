@@ -103,12 +103,7 @@ You can also create diagrams using:
 - PowerPoint
 - Canva
 - Lucidchart
-
-Add your flow diagram image below:
-
-```md
-![Flow Diagram](flow-diagram.png)
-```
+`
 
 ---
 
